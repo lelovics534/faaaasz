@@ -6,4 +6,5 @@ int main(void)
 	char *a= "Ahoj!";
 	printf(a);
 	return (0);
+	int hihi;
 }
